@@ -11,7 +11,7 @@
   <component name="ProjectId" id="1STyzL8B6MiSKW08KaDOwWnnFne" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -22,6 +22,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Михаил\Documents\СайтMAin" />
       <recent name="C:\Users\Михаил\Documents\СайтMAin\assets\img" />
     </key>
   </component>
@@ -37,6 +38,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/СайтMAin/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -50,6 +61,7 @@
       <workItem from="1571602142680" duration="3022000" />
       <workItem from="1571655274387" duration="1134000" />
       <workItem from="1574632600827" duration="2532000" />
+      <workItem from="1575823457876" duration="1425000" />
     </task>
     <servers />
   </component>
